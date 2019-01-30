@@ -44,7 +44,7 @@
 }
 
 body {
-    background-color: rgb(70, 70, 80);
+    background-color: rgb(80, 80, 90);
 }
 
 .title {
@@ -60,7 +60,7 @@ body {
     margin-right: 20%;
     border-bottom: 2px solid grey;
     font-family: 'Calibri', 'Trebuchet MS', sans-serif;
-    color: rgb(150, 170, 150);
+    color: rgb(120, 180, 120);
 }
 
 .goalsChart {
@@ -71,7 +71,7 @@ body {
     margin-top: 2em;
     margin-left: 15%;
     margin-right: 15%;
-    color: rgb(150, 170, 150);
+color: rgb(120, 180, 120);
 }
 
 .longTermGoals {
@@ -91,14 +91,14 @@ body {
 .genericGrid {
     margin-left: 7em;
     margin-right: 7em;
-    margin-top: 3em;
+    margin-top: 2em;
     display: grid;
     grid-column: auto;
     grid-row: auto;
     border: 2px solid black;
     grid-gap: 2em;
     padding: 2em;
-    color: rgb(150, 170, 150);
+color: rgb(120, 180, 120);
 }
 
 .grid1 {
